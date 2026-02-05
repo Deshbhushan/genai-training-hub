@@ -1,0 +1,7 @@
+applications are using databases to optimize queries. Some databases log 
+audit records to files, while others maintain audit tables accessible using 
+SQL.
+File System Audit Logs
+The sensitive data that’s not in databases is on file systems, often being 
+shared. In some industries such as healthcare, the biggest data leakage 
+risk is consumer records on shared file systems. Different operating s
